@@ -1,0 +1,9 @@
+if any error occurs contact on elavarasans@gmail.com.
+1st u will create a folder on xampp hdocts "busreservation"
+all main files are in folder Name "xres".
+
+
+admin log in 
+
+admin id   : admin
+admin pass : admin 
